@@ -1,0 +1,7 @@
+A001,Yong Jun,123,122225456,Admin,
+U002,Brian,password123,122225456,Customer,
+A003,Jing Yi,123456,789456213,Admin,
+U004,Yong,yong123,198061826,Customer,
+U005,Jasper,j45per,122222222,Customer,
+U006,Tam,456789,123465789,Customer,
+A007,Joo,asd123,120003333,Admin,

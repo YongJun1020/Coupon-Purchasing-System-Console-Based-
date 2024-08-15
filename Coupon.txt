@@ -1,0 +1,6 @@
+C001,MalaXiangGuo,25.00,10,
+C002,Mookata,20.00,20,
+C003,Zus,5.00,48,
+C005,Ah B Mixed Rice,5.00,20,
+C006,Mixue,1.99,84,
+C006,Cash,12.00,20,
